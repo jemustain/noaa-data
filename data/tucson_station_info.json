@@ -1,0 +1,11 @@
+{
+  "elevation": 777.6,
+  "mindate": "1946-01-01",
+  "maxdate": "2025-11-26",
+  "latitude": 32.13153,
+  "name": "TUCSON INTERNATIONAL AIRPORT, AZ US",
+  "datacoverage": 1,
+  "id": "GHCND:USW00023160",
+  "elevationUnit": "METERS",
+  "longitude": -110.95638
+}
